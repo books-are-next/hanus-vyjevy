@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Výjevy</text>
+  </docTitle>
+  <docAuthor>
+    <text>Ondřej Hanus</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Z DRUHÉHO BŘEHU</text>
+      </navLabel>
+      <content src="Text/vyjevy_007.xhtml#_idParaDest-1"/>
+      <navPoint id="navpoint2" playOrder="2">
+        <navLabel>
+          <text>První výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_008.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navpoint3" playOrder="3">
+        <navLabel>
+          <text>Druhý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_009.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>‖tř̥etiː| ˈ viːjef‖</text>
+        </navLabel>
+        <content src="Text/vyjevy_010.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navpoint5" playOrder="5">
+        <navLabel>
+          <text>Čvtrtý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_011.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>Pátý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_012.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>Šestý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_013.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>Sedmý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_014.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>Osmý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_015.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>Devátý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_016.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>Desátý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_017.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>Jedenáctý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_018.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navpoint13" playOrder="13">
+        <navLabel>
+          <text>Dvanáctý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_019.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>Třináctý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_020.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>Čtrnáctý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_021.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navpoint16" playOrder="16">
+        <navLabel>
+          <text>Patnáctý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_022.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>Šestnáctý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_023.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navpoint18" playOrder="18">
+        <navLabel>
+          <text>Sedmnáctý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_024.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navpoint19" playOrder="19">
+        <navLabel>
+          <text>Osmnáctý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_025.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>Devatenáctý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_026.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>Dvacátý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_027.xhtml#_idParaDest-21"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>Z PRVNÍHO BŘEHU</text>
+      </navLabel>
+      <content src="Text/vyjevy_028.xhtml#_idParaDest-22"/>
+      <navPoint id="navpoint23" playOrder="23">
+        <navLabel>
+          <text>Dvacátý první výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_029.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navpoint24" playOrder="24">
+        <navLabel>
+          <text>Dvacátý druhý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_030.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navpoint25" playOrder="25">
+        <navLabel>
+          <text>Dvacátý třetí výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_031.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navpoint26" playOrder="26">
+        <navLabel>
+          <text>Dvacátý čtvrtý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_032.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navpoint27" playOrder="27">
+        <navLabel>
+          <text>Dvacátý pátý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_033.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navpoint28" playOrder="28">
+        <navLabel>
+          <text>Dvacátý šestý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_034.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navpoint29" playOrder="29">
+        <navLabel>
+          <text>Dvacátý sedmý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_035.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navpoint30" playOrder="30">
+        <navLabel>
+          <text>Dvacátý osmý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_036.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navpoint31" playOrder="31">
+        <navLabel>
+          <text>Dvacátý devátý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_037.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navpoint32" playOrder="32">
+        <navLabel>
+          <text>Třicátý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_038.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navpoint33" playOrder="33">
+        <navLabel>
+          <text>Třicátý první výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_039.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navpoint34" playOrder="34">
+        <navLabel>
+          <text>Třicátý druhý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_040.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navpoint35" playOrder="35">
+        <navLabel>
+          <text>Třicátý třetí výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_041.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navpoint36" playOrder="36">
+        <navLabel>
+          <text>Třicátý čtvrtý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_042.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navpoint37" playOrder="37">
+        <navLabel>
+          <text>Třicátý pátý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_043.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navpoint38" playOrder="38">
+        <navLabel>
+          <text>Třicátý šestý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_044.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navpoint39" playOrder="39">
+        <navLabel>
+          <text>Třicátý sedmý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_045.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navpoint40" playOrder="40">
+        <navLabel>
+          <text>Třicátý osmý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_046.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navpoint41" playOrder="41">
+        <navLabel>
+          <text>Třicátý devátý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_047.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navpoint42" playOrder="42">
+        <navLabel>
+          <text>Čtyřicátý výjev</text>
+        </navLabel>
+        <content src="Text/vyjevy_048.xhtml#_idParaDest-42"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

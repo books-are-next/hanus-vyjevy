@@ -1,0 +1,431 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Výjevy",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Ondřej Hanus",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-11-19T00:00:00.000Z",
+    "published": "2021-11-18T08:37:30.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vyjevy_050.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/OBALKA01-0004621436.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/treti_vyjev.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/tricaty_vyjev.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Z DRUHÉHO BŘEHU",
+      "children": [
+        {
+          "title": "První výjev",
+          "href": "OEBPS/Text/vyjevy_008.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Druhý výjev",
+          "href": "OEBPS/Text/vyjevy_009.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "‖tř̥etiː| ˈ viːjef‖",
+          "href": "OEBPS/Text/vyjevy_010.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Čvtrtý výjev",
+          "href": "OEBPS/Text/vyjevy_011.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Pátý výjev",
+          "href": "OEBPS/Text/vyjevy_012.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Šestý výjev",
+          "href": "OEBPS/Text/vyjevy_013.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Sedmý výjev",
+          "href": "OEBPS/Text/vyjevy_014.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Osmý výjev",
+          "href": "OEBPS/Text/vyjevy_015.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Devátý výjev",
+          "href": "OEBPS/Text/vyjevy_016.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Desátý výjev",
+          "href": "OEBPS/Text/vyjevy_017.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Jedenáctý výjev",
+          "href": "OEBPS/Text/vyjevy_018.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Dvanáctý výjev",
+          "href": "OEBPS/Text/vyjevy_019.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Třináctý výjev",
+          "href": "OEBPS/Text/vyjevy_020.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Čtrnáctý výjev",
+          "href": "OEBPS/Text/vyjevy_021.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Patnáctý výjev",
+          "href": "OEBPS/Text/vyjevy_022.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Šestnáctý výjev",
+          "href": "OEBPS/Text/vyjevy_023.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Sedmnáctý výjev",
+          "href": "OEBPS/Text/vyjevy_024.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Osmnáctý výjev",
+          "href": "OEBPS/Text/vyjevy_025.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Devatenáctý výjev",
+          "href": "OEBPS/Text/vyjevy_026.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Dvacátý výjev",
+          "href": "OEBPS/Text/vyjevy_027.xhtml#_idParaDest-21"
+        }
+      ],
+      "href": "OEBPS/Text/vyjevy_007.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Z PRVNÍHO BŘEHU",
+      "children": [
+        {
+          "title": "Dvacátý první výjev",
+          "href": "OEBPS/Text/vyjevy_029.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Dvacátý druhý výjev",
+          "href": "OEBPS/Text/vyjevy_030.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Dvacátý třetí výjev",
+          "href": "OEBPS/Text/vyjevy_031.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Dvacátý čtvrtý výjev",
+          "href": "OEBPS/Text/vyjevy_032.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Dvacátý pátý výjev",
+          "href": "OEBPS/Text/vyjevy_033.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Dvacátý šestý výjev",
+          "href": "OEBPS/Text/vyjevy_034.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Dvacátý sedmý výjev",
+          "href": "OEBPS/Text/vyjevy_035.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Dvacátý osmý výjev",
+          "href": "OEBPS/Text/vyjevy_036.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Dvacátý devátý výjev",
+          "href": "OEBPS/Text/vyjevy_037.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Třicátý výjev",
+          "href": "OEBPS/Text/vyjevy_038.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Třicátý první výjev",
+          "href": "OEBPS/Text/vyjevy_039.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Třicátý druhý výjev",
+          "href": "OEBPS/Text/vyjevy_040.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Třicátý třetí výjev",
+          "href": "OEBPS/Text/vyjevy_041.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Třicátý čtvrtý výjev",
+          "href": "OEBPS/Text/vyjevy_042.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Třicátý pátý výjev",
+          "href": "OEBPS/Text/vyjevy_043.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Třicátý šestý výjev",
+          "href": "OEBPS/Text/vyjevy_044.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Třicátý sedmý výjev",
+          "href": "OEBPS/Text/vyjevy_045.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Třicátý osmý výjev",
+          "href": "OEBPS/Text/vyjevy_046.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Třicátý devátý výjev",
+          "href": "OEBPS/Text/vyjevy_047.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Čtyřicátý výjev",
+          "href": "OEBPS/Text/vyjevy_048.xhtml#_idParaDest-42"
+        }
+      ],
+      "href": "OEBPS/Text/vyjevy_028.xhtml#_idParaDest-22"
+    }
+  ]
+}

@@ -1,26 +1,24 @@
 ---
-title: ''
+title: Třicátý sedmý výjev
 contentType: prose
 ---
 
-Třicátý sedmý výjev
+_(jasmínový)_
 
-(jasmínový)
+_až temné noci splynou s jasnými  
+až si čas uvědomí, že je tu  
+ne k odkrývání našich skeletů  
+ale aby nám bílé jasmíny_
 
-> až temné noci splynou s jasnými  
-> až si čas uvědomí, že je tu  
-> ne k odkrývání našich skeletů  
-> ale aby nám bílé jasmíny
+_nepřišly samozřejmé jako krev  
+až zahovoří nezmatenou řečí  
+chrám, ve kterém se před Přírodou klečí  
+až na rakev nám bude líto dřev_
 
-> nepřišly samozřejmé jako krev  
-> až zahovoří nezmatenou řečí  
-> chrám, ve kterém se před Přírodou klečí  
-> až na rakev nám bude líto dřev
+_až kosti slov se zlomí v čistý dur  
+až jejich morek zcela vycucáme  
+až přijde onen vytoužený kámen_
 
-> až kosti slov se zlomí v čistý dur  
-> až jejich morek zcela vycucáme  
-> až přijde onen vytoužený kámen
-
-> až začne sálat Bůh, jenž vystydnul  
-> pak mi dej pusu, ať se probudím  
-> mně stačíš ty a jednoduchý rým
+_až začne sálat Bůh, jenž vystydnul  
+pak mi dej pusu, ať se probudím  
+mně stačíš ty a jednoduchý rým_

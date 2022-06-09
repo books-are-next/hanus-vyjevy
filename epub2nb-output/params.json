@@ -8,21 +8,23 @@
       "modified": "2021-11-19T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\ne.booknadpis.*\nheading.id.2\nmlpuroven1cast\nmlpuroven2kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
-      "h3": "",
-      "h4": "",
-      "hr": "",
+      "h2": "MLP.uroven3.nadpis\nMLP.UROVEN3.NADPIS.DRAMA",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "brBefore": ".+12.0\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\ne.bookversebezpredsazeni.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*--I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -637,13 +639,13 @@
         "xhtml": "vyjevy_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_008.md",
         "xhtml": "vyjevy_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Druhý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_009.md",
         "xhtml": "vyjevy_009.xhtml"
@@ -655,103 +657,103 @@
         "xhtml": "vyjevy_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čvtrtý výjev ",
         "subtitleSuggest": "",
         "filename": "vyjevy_011.md",
         "xhtml": "vyjevy_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pátý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_012.md",
         "xhtml": "vyjevy_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šestý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_013.md",
         "xhtml": "vyjevy_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sedmý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_014.md",
         "xhtml": "vyjevy_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Osmý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_015.md",
         "xhtml": "vyjevy_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Devátý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_016.md",
         "xhtml": "vyjevy_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Desátý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_017.md",
         "xhtml": "vyjevy_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jedenáctý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_018.md",
         "xhtml": "vyjevy_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvanáctý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_019.md",
         "xhtml": "vyjevy_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třináctý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_020.md",
         "xhtml": "vyjevy_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čtrnáctý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_021.md",
         "xhtml": "vyjevy_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Patnáctý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_022.md",
         "xhtml": "vyjevy_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šestnáctý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_023.md",
         "xhtml": "vyjevy_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sedmnáctý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_024.md",
         "xhtml": "vyjevy_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Osmnáctý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_025.md",
         "xhtml": "vyjevy_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Devatenáctý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_026.md",
         "xhtml": "vyjevy_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvacátý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_027.md",
         "xhtml": "vyjevy_027.xhtml"
@@ -763,55 +765,55 @@
         "xhtml": "vyjevy_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvacátý první výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_029.md",
         "xhtml": "vyjevy_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvacátý druhý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_030.md",
         "xhtml": "vyjevy_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvacátý třetí výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_031.md",
         "xhtml": "vyjevy_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvacátý čtvrtý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_032.md",
         "xhtml": "vyjevy_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvacátý pátý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_033.md",
         "xhtml": "vyjevy_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvacátý šestý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_034.md",
         "xhtml": "vyjevy_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvacátý sedmý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_035.md",
         "xhtml": "vyjevy_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvacátý osmý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_036.md",
         "xhtml": "vyjevy_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvacátý devátý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_037.md",
         "xhtml": "vyjevy_037.xhtml"
@@ -823,61 +825,61 @@
         "xhtml": "vyjevy_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třicátý první výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_039.md",
         "xhtml": "vyjevy_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třicátý druhý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_040.md",
         "xhtml": "vyjevy_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třicátý třetí výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_041.md",
         "xhtml": "vyjevy_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třicátý čtvrtý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_042.md",
         "xhtml": "vyjevy_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třicátý pátý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_043.md",
         "xhtml": "vyjevy_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třicátý šestý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_044.md",
         "xhtml": "vyjevy_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třicátý sedmý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_045.md",
         "xhtml": "vyjevy_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třicátý osmý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_046.md",
         "xhtml": "vyjevy_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třicátý devátý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_047.md",
         "xhtml": "vyjevy_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čtyřicátý výjev",
         "subtitleSuggest": "",
         "filename": "vyjevy_048.md",
         "xhtml": "vyjevy_048.xhtml"
@@ -975,6 +977,6 @@
       "user": "books-are-next",
       "repo": "hanus-vyjevy"
     },
-    "generatedAt": 1652420928558
+    "generatedAt": 1654774385796
   }
 }

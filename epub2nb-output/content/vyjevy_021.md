@@ -1,19 +1,17 @@
 ---
-title: ''
+title: Čtrnáctý výjev
 contentType: prose
 ---
 
-Čtrnáctý výjev
+_(všudypřítemný)_
 
-(všudypřítemný)
+_tak vidíš, zdráháme se slyšet  
+namátkou kontrolovaní  
+abychom nepřesáhli vymezený syžet_
 
-> tak vidíš, zdráháme se slyšet  
-> namátkou kontrolovaní  
-> abychom nepřesáhli vymezený syžet
+_prodíráme se čím dál světlejšími rány  
+zpod peřin prohlížíme život  
+kočičími periskopy, jehlami zkřehlých dlaní_
 
-> prodíráme se čím dál světlejšími rány  
-> zpod peřin prohlížíme život  
-> kočičími periskopy, jehlami zkřehlých dlaní
-
-> všude je přítmí, všude tklivo  
-> všude se pomalu loupe zdivo
+_všude je přítmí, všude tklivo  
+všude se pomalu loupe zdivo_

@@ -1,26 +1,24 @@
 ---
-title: ''
+title: Dvacátý třetí výjev
 contentType: prose
 ---
 
-Dvacátý třetí výjev
+_(archandělský)_
 
-(archandělský)
+_někdy je příliš mnoho povyku  
+pro noc, mě ale klidně zhasni  
+do hrobu zavři, už jsem odvyknul  
+světlům i zvukům, spolehnul se na sny_
 
-> někdy je příliš mnoho povyku  
-> pro noc, mě ale klidně zhasni  
-> do hrobu zavři, už jsem odvyknul  
-> světlům i zvukům, spolehnul se na sny
+_někdy je mnoho nocí, které nemizí  
+to archandělé hrají na křídla  
+hru, která nepřipouští remízy  
+a má jen domluvená pravidla_
 
-> někdy je mnoho nocí, které nemizí  
-> to archandělé hrají na křídla  
-> hru, která nepřipouští remízy  
-> a má jen domluvená pravidla
+_nehledě na případy ústních svazků  
+lze archandělům také vyznat lásku  
+škrtnutím nocí, podtržením komet_
 
-> nehledě na případy ústních svazků  
-> lze archandělům také vyznat lásku  
-> škrtnutím nocí, podtržením komet
-
-> noci mě vábí tím víc, že jsem slabý  
-> není to dávno, co jsem se chtěl zabít  
-> proto jsem napsal archandělům sonet
+_noci mě vábí tím víc, že jsem slabý  
+není to dávno, co jsem se chtěl zabít  
+proto jsem napsal archandělům sonet_

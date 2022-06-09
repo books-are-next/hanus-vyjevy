@@ -1,19 +1,17 @@
 ---
-title: ''
+title: Dvacátý první výjev
 contentType: prose
 ---
 
-Dvacátý první výjev
+_(světský)_
 
-(světský)
+_měřím jednoho Boha  
+letce všemohoucího  
+věřitele nebe i země_
 
-> měřím jednoho Boha  
-> letce všemohoucího  
-> věřitele nebe i země
+_má zobáček a milimetr na výšku  
+opeřený, ne stvořený  
+jedné podstaty s lidstvem_
 
-> má zobáček a milimetr na výšku  
-> opeřený, ne stvořený  
-> jedné podstaty s lidstvem
-
-> skrze něhu  
-> všechno je stvořeno
+_skrze něhu  
+všechno je stvořeno_

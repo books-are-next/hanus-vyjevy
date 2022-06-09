@@ -1,14 +1,12 @@
 ---
-title: ''
+title: Pátý výjev
 contentType: prose
 ---
 
-Pátý výjev
+_(kvetoucí)_
 
-(kvetoucí)
+_poupátko smrti ještě nevykvetlo  
+šíří se pylem jako věčné světlo_
 
-> poupátko smrti ještě nevykvetlo  
-> šíří se pylem jako věčné světlo
-
-> s rychlostí zvuku, který neumlká  
-> letí jak špatné rýmy první včelka
+_s rychlostí zvuku, který neumlká  
+letí jak špatné rýmy první včelka_

@@ -1,26 +1,24 @@
 ---
-title: ''
+title: Dvanáctý výjev
 contentType: prose
 ---
 
-Dvanáctý výjev
+_(pohřební)_
 
-(pohřební)
+_krev, šlechta těla, převyšuje tepem  
+(zápůjčkou zvuku) maso, kůži, kosti  
+být bubeník, mám blány bubnů z tepen  
+metronom ze srdce a noty na vnitřnosti_
 
-> krev, šlechta těla, převyšuje tepem  
-> (zápůjčkou zvuku) maso, kůži, kosti  
-> být bubeník, mám blány bubnů z tepen  
-> metronom ze srdce a noty na vnitřnosti
+_otvírám město jako krabici  
+pravdou je holá smrt a každý zářez  
+do masa křiví nespočetné tváře  
+průvody rakví, noty na bicí_
 
-> otvírám město jako krabici  
-> pravdou je holá smrt a každý zářez  
-> do masa křiví nespočetné tváře  
-> průvody rakví, noty na bicí
+_změní se rytmus, promění se věty  
+a budu bezpodmětný, bezpředmětný  
+hřbitůvek ve Slabčicích sklidí moje stáří_
 
-> změní se rytmus, promění se věty  
-> a budu bezpodmětný, bezpředmětný  
-> hřbitůvek ve Slabčicích sklidí moje stáří
-
-nad horami slunko září  
+_nad horami slunko září  
 stoupá výš a výš  
-práce čeká, hospodáři, a ty v hrobě spíš
+práce čeká, hospodáři, a ty v hrobě spíš_

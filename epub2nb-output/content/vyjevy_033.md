@@ -1,26 +1,24 @@
 ---
-title: ''
+title: Dvacátý pátý výjev
 contentType: prose
 ---
 
-Dvacátý pátý výjev
+_(denní)_
 
-(denní)
+_kde drť, kde jazyk i kdekdo  
+mocné jsou spousty soust a noci  
+máš větu, do níž cosi vykvetlo  
+a nebylo to ledajaké cosi_
 
-> kde drť, kde jazyk i kdekdo  
-> mocné jsou spousty soust a noci  
-> máš větu, do níž cosi vykvetlo  
-> a nebylo to ledajaké cosi
+_ode dne, jeho úpatí  
+ke špicím, nota k notě  
+jak infinitiv _stúpati_  
+jít, šutry lásek v botě_
 
-> ode dne, jeho úpatí  
-> ke špicím, nota k notě  
-> jak infinitiv _stúpati_  
-> jít, šutry lásek v botě
+_jak ospravedlníš ten foném?  
+co je ti po něm? krákorat  
+smíš třikrát denně, akorát_
 
-> jak ospravedlníš ten foném?  
-> co je ti po něm? krákorat  
-> smíš třikrát denně, akorát
-
-> tak abys přežil, honem —  
-> máš tam tý smrti eště hodně?  
-> _po dně, Ondřeji, po dně_
+_tak abys přežil, honem —  
+máš tam tý smrti eště hodně?  
+_po dně, Ondřeji, po dně__

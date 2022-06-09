@@ -1,26 +1,24 @@
 ---
-title: ''
+title: Jedenáctý výjev
 contentType: prose
 ---
 
-Jedenáctý výjev
+_(březnový)_
 
-(březnový)
+_na stole sestra — černobílý výjev  
+do ucha rvou jí rozžhavenou jehlu  
+aby v něm měla díru a já přišel  
+k prvnímu ze svých stehů_
 
-> na stole sestra — černobílý výjev  
-> do ucha rvou jí rozžhavenou jehlu  
-> aby v něm měla díru a já přišel  
-> k prvnímu ze svých stehů
+_jak rudý Kristus v plenkách, párměsíční parchant  
+zbavený barev, vychlístnutý zrakem  
+na můstky přistavené k cizím archám  
+ten třetí vedle Barabáše, svatý Kraken_
 
-> jak rudý Kristus v plenkách, párměsíční parchant  
-> zbavený barev, vychlístnutý zrakem  
-> na můstky přistavené k cizím archám  
-> ten třetí vedle Barabáše, svatý Kraken
+_zakažte březen, ať se nenarodím  
+zakažte duben, abych neumřel  
+při pádech ze schodů, uprostřed černých hodin_
 
-> zakažte březen, ať se nenarodím  
-> zakažte duben, abych neumřel  
-> při pádech ze schodů, uprostřed černých hodin
-
-> „po dlouhém boji podleh’ autocenzuře“  
-> ten neurotický pokušitel smrti  
-> co prostál celý život na padrti
+_„po dlouhém boji podleh’ autocenzuře“  
+ten neurotický pokušitel smrti  
+co prostál celý život na padrti_

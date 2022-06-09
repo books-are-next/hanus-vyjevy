@@ -1,14 +1,12 @@
 ---
-title: ''
+title: Devátý výjev
 contentType: prose
 ---
 
-Devátý výjev
+_(tichý)_
 
-(tichý)
+_vzduch mezi stébly je tišší než ticho  
+dýcháš ho, dopíjíš zelený ichor_
 
-> vzduch mezi stébly je tišší než ticho  
-> dýcháš ho, dopíjíš zelený ichor
-
-> zítřek zní krvavým výkřikem do pustin  
-> Bože můj, najdi mě tam, kde tě opustím
+_zítřek zní krvavým výkřikem do pustin  
+Bože můj, najdi mě tam, kde tě opustím_

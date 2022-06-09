@@ -1,13 +1,11 @@
 ---
-title: ''
+title: Osmnáctý výjev
 contentType: prose
 ---
 
-Osmnáctý výjev
+_(zástěnný)_
 
-(zástěnný)
-
-> Bůh je vše, co jsme nedokázali  
-> pojmenovat, vše, co jsme nechtěli  
-> ztratit při korekturách noci  
-> v zástění o dostavbách nedělí
+_Bůh je vše, co jsme nedokázali  
+pojmenovat, vše, co jsme nechtěli  
+ztratit při korekturách noci  
+v zástění o dostavbách nedělí_

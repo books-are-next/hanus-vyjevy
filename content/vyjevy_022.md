@@ -1,20 +1,18 @@
 ---
-title: ''
+title: Patnáctý výjev
 contentType: prose
 ---
 
-Patnáctý výjev
+_(kostěný)_
 
-(kostěný)
+_jsem jen, že jste se střetly  
+sny, s vylekanými světly  
+tohoto Domu kostí_
 
-> jsem jen, že jste se střetly  
-> sny, s vylekanými světly  
-> tohoto Domu kostí
+_podivně prázdný prostor  
+čas mezi mnou a kostrou  
+tma, která škemrá o stín_
 
-> podivně prázdný prostor  
-> čas mezi mnou a kostrou  
-> tma, která škemrá o stín
-
-> jsem jen, že jste si spletly  
-> obraz a odraz, Sestry:  
-> křest nových souvztažností
+_jsem jen, že jste si spletly  
+obraz a odraz, Sestry:  
+křest nových souvztažností_

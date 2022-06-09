@@ -1,26 +1,24 @@
 ---
-title: ''
+title: Třicátý šestý výjev
 contentType: prose
 ---
 
-Třicátý šestý výjev
+_(břevnovský)_
 
-(břevnovský)
+_to byla Květná neděle a Břevnov odpovídal  
+(_i s tebou, amen, neboť tvé je…, Pane, smiluj se_)  
+ty, liturgická panna v krvi po modlitbách  
+jsi vystoupila za práh iluze_
 
-> to byla Květná neděle a Břevnov odpovídal  
-> (_i s tebou, amen, neboť tvé je…, Pane, smiluj se_)  
-> ty, liturgická panna v krvi po modlitbách  
-> jsi vystoupila za práh iluze
+_pod oranžovým kultem doznívali kosi  
+čas praskal ve švech, nešlo ho už měřit  
+na pravoboku alkoholik ve své lodi  
+dopíjel posledních pár vteřin_
 
-> pod oranžovým kultem doznívali kosi  
-> čas praskal ve švech, nešlo ho už měřit  
-> na pravoboku alkoholik ve své lodi  
-> dopíjel posledních pár vteřin
+_pak střih a záblesk, čisté vědomí  
+kontury zmizely, svět zařval relacemi  
+náhle ho nešlo dělit dvěma, třemi_
 
-> pak střih a záblesk, čisté vědomí  
-> kontury zmizely, svět zařval relacemi  
-> náhle ho nešlo dělit dvěma, třemi
-
-> měřítka praskla odspodu a ječí  
-> jsem v tobě šťastný, čase, odstup ode mě  
-> to byla Květná neděle a Břevnov oněměl
+_měřítka praskla odspodu a ječí  
+jsem v tobě šťastný, čase, odstup ode mě  
+to byla Květná neděle a Břevnov oněměl_

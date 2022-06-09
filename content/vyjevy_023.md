@@ -1,18 +1,16 @@
 ---
-title: ''
+title: Šestnáctý výjev
 contentType: prose
 ---
 
-Šestnáctý výjev
+_(uctivý)_
 
-(uctivý)
+_relapsy úcty po remisích hnusu  
+i něžné bytosti se brodí libidem  
+stíhané odčítáním do funusu  
+padnouce, budem stejní, ibidem_
 
-> relapsy úcty po remisích hnusu  
-> i něžné bytosti se brodí libidem  
-> stíhané odčítáním do funusu  
-> padnouce, budem stejní, ibidem
-
-> emise úcty, vyprázdněná střeva  
-> tepenné krvácení, řev a převaz  
-> tuhnoucí ryty smrti, negativy  
-> odhady, kdy se přestanu bát živých
+_emise úcty, vyprázdněná střeva  
+tepenné krvácení, řev a převaz  
+tuhnoucí ryty smrti, negativy  
+odhady, kdy se přestanu bát živých_

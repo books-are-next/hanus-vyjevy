@@ -1,18 +1,16 @@
 ---
-title: ''
+title: Dvacátý šestý výjev
 contentType: prose
 ---
 
-Dvacátý šestý výjev
+_(vražedný)_
 
-(vražedný)
+_Jindřišskou táhli denní vrazi, tři  
+zesnulí a tři zralí na rubáš  
+ten sedmý přesouval smrt nazítří  
+a říkal jí: však, kmotra, zarubáš_
 
-> Jindřišskou táhli denní vrazi, tři  
-> zesnulí a tři zralí na rubáš  
-> ten sedmý přesouval smrt nazítří  
-> a říkal jí: však, kmotra, zarubáš
-
-> zvu tě k nám domů, na kraj sklenek  
-> přilepím cukr z klátící se třtiny  
-> pak začnu přelívat ty sklenky nakrášlené  
-> a budou křtiny, kmotra, budou velké křtiny
+_zvu tě k nám domů, na kraj sklenek  
+přilepím cukr z klátící se třtiny  
+pak začnu přelívat ty sklenky nakrášlené  
+a budou křtiny, kmotra, budou velké křtiny_

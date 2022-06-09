@@ -1,26 +1,24 @@
 ---
-title: ''
+title: Třináctý výjev
 contentType: prose
 ---
 
-Třináctý výjev
+_(nešťastný)_
 
-(nešťastný)
+_zátiší s ohněm, akty proláklin  
+portréty smolných loučí  
+zborcená perspektiva volá klín  
+věřícím před smrtí je mluvit se svým bohem_
 
-> zátiší s ohněm, akty proláklin  
-> portréty smolných loučí  
-> zborcená perspektiva volá klín  
-> věřícím před smrtí je mluvit se svým bohem
+_jsi krásná v nesmrtelných očích  
+a nesmrtelná v kráse jako věčný oheň  
+macecho z nikdy nepoznaných končin  
+jsme tvoje cévy, strachem zúžené_
 
-> jsi krásná v nesmrtelných očích  
-> a nesmrtelná v kráse jako věčný oheň  
-> macecho z nikdy nepoznaných končin  
-> jsme tvoje cévy, strachem zúžené
+_a tvoje srdce je náš růženec  
+nejčistší olej — tvoje jméno  
+na plátnech, uvnitř doživotních rámů_
 
-> a tvoje srdce je náš růženec  
-> nejčistší olej — tvoje jméno  
-> na plátnech, uvnitř doživotních rámů
-
-> pouští svých palet nesli prázdnou schránu  
-> k vlastnímu údivu až příliš otevřenou  
-> „exitus nastal kolem sedmé k ránu“
+_pouští svých palet nesli prázdnou schránu  
+k vlastnímu údivu až příliš otevřenou  
+„exitus nastal kolem sedmé k ránu“_

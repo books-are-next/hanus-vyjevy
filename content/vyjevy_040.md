@@ -1,20 +1,18 @@
 ---
-title: ''
+title: Třicátý druhý výjev
 contentType: prose
 ---
 
-Třicátý druhý výjev
+_(starý)_
 
-(starý)
+_prokleslí, mnou si vousy, cosi  
+v nich prosí konat  
+v pokleku vět a molekul  
+a monád_
 
-> prokleslí, mnou si vousy, cosi  
-> v nich prosí konat  
-> v pokleku vět a molekul  
-> a monád
+_— arcistarci —_
 
-> — arcistarci —
-
-> odněkud  
-> dočista, jako rozebrán  
-> archetyp bytí  
-> …gnóze zbraň!
+_odněkud  
+dočista, jako rozebrán  
+archetyp bytí  
+…gnóze zbraň!_

@@ -1,18 +1,16 @@
 ---
-title: ''
+title: 'Čvtrtý výjev '
 contentType: prose
 ---
 
-Čvtrtý výjev
+_(smrtelný)_
 
-(smrtelný)
+_vnikl sem spodní vůlí jako zdmi  
+a ostře — jako všechny proměnné —  
+ostrouhal usínání na kost tmy  
+pil modrou krev své šlechty: pomněnek_
 
-> vnikl sem spodní vůlí jako zdmi  
-> a ostře — jako všechny proměnné —  
-> ostrouhal usínání na kost tmy  
-> pil modrou krev své šlechty: pomněnek
-
-> prostoupal masem k okamžikům dřeně  
-> po schodech šlach a přes okapy nehtů  
-> vypadal jako hřích, tak odepřeně  
-> a jako všechny proměnné pak zdech’ tu
+_prostoupal masem k okamžikům dřeně  
+po schodech šlach a přes okapy nehtů  
+vypadal jako hřích, tak odepřeně  
+a jako všechny proměnné pak zdech’ tu_

@@ -1,26 +1,24 @@
 ---
-title: ''
+title: Dvacátý druhý výjev
 contentType: prose
 ---
 
-Dvacátý druhý výjev
+_(andělský)_
 
-(andělský)
+_koordináta — měsíc, prostor řeky —  
+napjatá mezi uvozovky  
+den, k selhání funkcí prostořeký  
+jak ústa lovkyň_
 
-> koordináta — měsíc, prostor řeky —  
-> napjatá mezi uvozovky  
-> den, k selhání funkcí prostořeký  
-> jak ústa lovkyň
+_zavděčíš se mi krátkým spojem  
+na plátna vcáklým paroxysmem  
+a k ránu, to mě nejvíc dojme  
+když proměním se v jízdné_
 
-> zavděčíš se mi krátkým spojem  
-> na plátna vcáklým paroxysmem  
-> a k ránu, to mě nejvíc dojme  
-> když proměním se v jízdné
+_bezstarostně si z mých žil utahuj  
+Ondráši, smyčku kolem jícnu  
+já se picnu_
 
-> bezstarostně si z mých žil utahuj  
-> Ondráši, smyčku kolem jícnu  
-> já se picnu
-
-> vidíš ty davy andělů tam u břehu?  
-> každý z nich má tvou podobiznu v dlaních  
-> a uvažuje skok: jsme odhodláni?
+_vidíš ty davy andělů tam u břehu?  
+každý z nich má tvou podobiznu v dlaních  
+a uvažuje skok: jsme odhodláni?_

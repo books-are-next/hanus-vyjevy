@@ -1,26 +1,24 @@
 ---
-title: ''
+title: Třicátý devátý výjev
 contentType: prose
 ---
 
-Třicátý devátý výjev
+_(něžný)_
 
-(něžný)
+__bez tebe_ nehudební genitiv  
+zneslovesní mi věty, syntax kornatí  
+báseň? _some place where no one sees  
+my fading sanity__
 
-> _bez tebe_ nehudební genitiv  
-> zneslovesní mi věty, syntax kornatí  
-> báseň? _some place where no one sees  
-> my fading sanity_
+_jazykem stavím babylonskou věž  
+zase ji zbořím bodným alexandrínem  
+ach, jamby válečné, vy krásky voskové  
+jak se s tou řečí láskyplně mlátíme_
 
-> jazykem stavím babylonskou věž  
-> zase ji zbořím bodným alexandrínem  
-> ach, jamby válečné, vy krásky voskové  
-> jak se s tou řečí láskyplně mlátíme
+__taste_ je imperativ, chuť i klávesa  
+_klarinetem_ ten nejněžnější instrumentál  
+bez tebe jsem jen bezpodmětná věta_
 
-> _taste_ je imperativ, chuť i klávesa  
-> _klarinetem_ ten nejněžnější instrumentál  
-> bez tebe jsem jen bezpodmětná věta
-
-> _Lucie_, vždyť ty jsi samý krásný vokál  
-> jazykem bych jen bohapustě tokal  
-> _v tobě_ je nejkrásnější lokál
+__Lucie_, vždyť ty jsi samý krásný vokál  
+jazykem bych jen bohapustě tokal  
+_v tobě_ je nejkrásnější lokál_

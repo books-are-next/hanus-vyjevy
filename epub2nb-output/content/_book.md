@@ -15,8 +15,8 @@ meta:
   contentType: poetry
 readingOrder:
   - promo.html
-  - vyjevy_005.html
   - vyjevy_006.html
+  - vyjevy_005.html
   - vyjevy_007.html
   - vyjevy_008.html
   - vyjevy_009.html

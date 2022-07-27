@@ -1,40 +1,40 @@
 ---
 title: Sedmnáctý výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(noční)_
 
-_v zívání trhlin zdál se — kdo že?  
+v zívání trhlin zdál se — kdo že?  
 stál by tu nebýt konců stání  
 otřel by křídla do rohože  
-políbil matku na sklo skrání_
+políbil matku na sklo skrání
 
 </section>
 
 <section>
 
-_pohyb? jsou sloupy vděčny větru?  
+pohyb? jsou sloupy vděčny větru?  
 prach oděru? chceš neznámým  
 pohybem nechat hořet větu  
-v syntaxi víry před chrámy?_
+v syntaxi víry před chrámy?
 
 </section>
 
 <section>
 
-_píšťalou dní tak oprýskaní  
+píšťalou dní tak oprýskaní  
 šeptáme nadhudební přání  
-být hmatem v prstech Boží dlaně_
+být hmatem v prstech Boží dlaně
 
 </section>
 
 <section>
 
-_být jícnem noci, spolykané  
+být jícnem noci, spolykané  
 zíváním trhlin v píšťale  
-přes tvoje hrany, křišťále_
+přes tvoje hrany, křišťále
 
 </section>

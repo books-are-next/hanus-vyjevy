@@ -1,31 +1,31 @@
 ---
 title: Dvacátý výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(hrobový)_
 
-__brousila kosu o hrobový kámen_  
+_brousila kosu o hrobový kámen_  
 jedla nás studené a zapíjela mízou  
-nás učiněné sloupem v jejím chrámě_
+nás učiněné sloupem v jejím chrámě
 
 </section>
 
 <section>
 
-_vypitá srdce drtila tak mírně  
+vypitá srdce drtila tak mírně  
 že nerušila krásná hejna hmyzu  
-nesoucí dopis trpělivé Smyrně_
+nesoucí dopis trpělivé Smyrně
 
 </section>
 
 <section>
 
-_vyhřezlé duše vdechla ústy k Ústům  
+vyhřezlé duše vdechla ústy k Ústům  
 opřela kosu o hrobový kámen  
-a zasedla ke stoletému půstu_
+a zasedla ke stoletému půstu
 
 </section>
 
@@ -40,6 +40,6 @@ svobodně trvat, navždy, bez řeči,
 
 <section>
 
-_Jiří Orten, _Po smrti__
+Jiří Orten, _Po smrti_
 
 </section>

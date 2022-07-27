@@ -1,40 +1,40 @@
 ---
 title: Čtyřicátý výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(poslední)_
 
-_když v lesoparku prší perleť  
+když v lesoparku prší perleť  
 dlaní tě jemně osuším  
 jazykem někdejšího patetika  
-jenž byl mi vším_
+jenž byl mi vším
 
 </section>
 
 <section>
 
-_zemřu-li, zemřu v tobě, malou  
+zemřu-li, zemřu v tobě, malou  
 smrtí, která mě neděsí  
 stínohrad padl, nová země  
-je pod novými nebesy_
+je pod novými nebesy
 
 </section>
 
 <section>
 
-_a dosud není zmapována  
+a dosud není zmapována  
 mí mrtví sedí na plovárnách  
-a koťata mi leží v klíně_
+a koťata mi leží v klíně
 
 </section>
 
 <section>
 
-_pozdravy smrti, sbohem hlíně  
+pozdravy smrti, sbohem hlíně  
 a poslední verš pro poslední sonet  
-fialko, už tebou budu navždy vonět_
+fialko, už tebou budu navždy vonět
 
 </section>

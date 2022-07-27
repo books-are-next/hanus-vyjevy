@@ -1,40 +1,40 @@
 ---
 title: První výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(navazující)_
 
-_kdosi se překrvil a rozcákal se po zdech  
+kdosi se překrvil a rozcákal se po zdech  
 jako když hodíš mísu s krví na zem  
 srdce jak dobré víno přešlo mrazem  
-stala se smrt, smrt rezavá jak povzdech_
+stala se smrt, smrt rezavá jak povzdech
 
 </section>
 
 <section>
 
-_a toho hnisu, Bože, všude tolik hnisu  
+a toho hnisu, Bože, všude tolik hnisu  
 tkáně se oddělily, viděli jsme kosti  
 v takovou chvíli ztratí smysl ostych  
-když nerozeznáš mozek od penisu_
+když nerozeznáš mozek od penisu
 
 </section>
 
 <section>
 
-_a schválně jsem pak začal nahlas zpívat  
+a schválně jsem pak začal nahlas zpívat  
 falešně, ale nahlas, vlastně jsem to křičel  
-namísto dirigentské hůlky kyčel_
+namísto dirigentské hůlky kyčel
 
 </section>
 
 <section>
 
-_potom jsem ze střev složil nápis _Vivat!_  
+potom jsem ze střev složil nápis _Vivat!_  
 a lebku, která nepraskla, jsem rozbil  
-koroduj za nás, vyslyš naše hrozby_
+koroduj za nás, vyslyš naše hrozby
 
 </section>

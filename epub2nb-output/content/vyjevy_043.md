@@ -1,24 +1,24 @@
 ---
 title: Třicátý pátý výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(hudební)_
 
-_do hudby prý tě zlosyn kop’  
+do hudby prý tě zlosyn kop’  
 odkud byl vsítěn do synkop  
 chci dávné v přísně nových říct  
-draky slov pouštím do vichřic_
+draky slov pouštím do vichřic
 
 </section>
 
 <section>
 
-_v staletích imanentně číhá  
+v staletích imanentně číhá  
 do tvaru řeči vrytá rýha  
 v níž se chce ohřát u cifer  
-dekadent-vědec Lucifer_
+dekadent-vědec Lucifer
 
 </section>

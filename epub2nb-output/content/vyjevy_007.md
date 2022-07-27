@@ -1,6 +1,6 @@
 ---
 title: Z DRUHÉHO BŘEHU
-contentType: prose
+contentType: poetry
 ---
 
 

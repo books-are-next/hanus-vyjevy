@@ -1,6 +1,7 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
@@ -14,6 +15,6 @@ na jez a pak se zvolna řítí do tůně._
 
 <section>
 
-_Josef Kocourek, _Srdce__
+Josef Kocourek, _Srdce_
 
 </section>

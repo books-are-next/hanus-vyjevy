@@ -1,29 +1,29 @@
 ---
 title: Třicátý první výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(improvizovaný)_
 
-_jako by nejskrytější z tich  
+jako by nejskrytější z tich  
 hrálo tu (slyšíš?) na cembalo  
 (jež by se s jiným hráčem bálo)  
-impromptu o dvou neznámých_
+impromptu o dvou neznámých
 
 </section>
 
 <section>
 
-_zatleská? kdo ví… ale kdo?  
-ten, který má všech dálek dost?_
+zatleská? kdo ví… ale kdo?  
+ten, který má všech dálek dost?
 
 </section>
 
 <section>
 
-_počkej tu, dojdu pro víno  
-zvlním tě, hluchá rovino_
+počkej tu, dojdu pro víno  
+zvlním tě, hluchá rovino
 
 </section>

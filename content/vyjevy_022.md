@@ -1,30 +1,30 @@
 ---
 title: Patnáctý výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(kostěný)_
 
-_jsem jen, že jste se střetly  
+jsem jen, že jste se střetly  
 sny, s vylekanými světly  
-tohoto Domu kostí_
+tohoto Domu kostí
 
 </section>
 
 <section>
 
-_podivně prázdný prostor  
+podivně prázdný prostor  
 čas mezi mnou a kostrou  
-tma, která škemrá o stín_
+tma, která škemrá o stín
 
 </section>
 
 <section>
 
-_jsem jen, že jste si spletly  
+jsem jen, že jste si spletly  
 obraz a odraz, Sestry:  
-křest nových souvztažností_
+křest nových souvztažností
 
 </section>

@@ -1,40 +1,40 @@
 ---
 title: Osmý výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(přednáboženský)_
 
-_v přednáboženských kolenou — tvé klouby  
+v přednáboženských kolenou — tvé klouby  
 praskají, jak si kleká krotká noc  
 jak zasypává hroby, které hloubíš  
-jak páře, co je tebou protkáno_
+jak páře, co je tebou protkáno
 
 </section>
 
 <section>
 
-_klekaná zem se tlakem rozteskní  
+klekaná zem se tlakem rozteskní  
 když oráč textu obkružuje souvrať  
 v mezích tvé psýché, tiché, groteskní  
-jak vertikála, která (v čase) couvla_
+jak vertikála, která (v čase) couvla
 
 </section>
 
 <section>
 
-_klečící ve mně, zmrtvýchvstalý gestář  
+klečící ve mně, zmrtvýchvstalý gestář  
 sklápějí hlasy k mezím sdělitelna  
-za což se (nejčastěji rýmem) trestáš_
+za což se (nejčastěji rýmem) trestáš
 
 </section>
 
 <section>
 
-_obracíš na víru jak (v solné sloupy) bělma  
+obracíš na víru jak (v solné sloupy) bělma  
 a zasypáváš hroby, které hloubí  
-v přednáboženské hlíně tvoje klouby_
+v přednáboženské hlíně tvoje klouby
 
 </section>

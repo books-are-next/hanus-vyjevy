@@ -1,40 +1,40 @@
 ---
 title: Sedmý výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(soupodstatný)_
 
-_blikal ten den a kolmo do mě vpínal  
+blikal ten den a kolmo do mě vpínal  
 zhmotnělé kapky nehmotného vína  
 a dal mi všechno ze slov ve třech zahrát  
-hrad věčných zahrad_
+hrad věčných zahrad
 
 </section>
 
 <section>
 
-_když jsem skryl prsty očí v pěsti víček  
+když jsem skryl prsty očí v pěsti víček  
 med prostoupil mě, Samsonovo lvíče  
 vše sklání se a sklápí těmi slovy  
-sklo věčných sklovin_
+sklo věčných sklovin
 
 </section>
 
 <section>
 
-_pak sběhl jsem se jako cesty v jedné  
+pak sběhl jsem se jako cesty v jedné  
 vstalo mě půl, jak den, a celý sedne  
-ret věčných loret_
+ret věčných loret
 
 </section>
 
 <section>
 
-_poznám-li doutnat, je mi zřejmo hořet  
+poznám-li doutnat, je mi zřejmo hořet  
 výhní, v níž stříbrem žízní o tvar  
-tvá věčná kotva_
+tvá věčná kotva
 
 </section>

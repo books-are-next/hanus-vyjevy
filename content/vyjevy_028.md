@@ -1,6 +1,6 @@
 ---
 title: "Z\_PRVNÍHO BŘEHU"
-contentType: prose
+contentType: poetry
 ---
 
 

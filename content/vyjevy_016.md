@@ -1,20 +1,20 @@
 ---
 title: Devátý výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(tichý)_
 
-_vzduch mezi stébly je tišší než ticho  
-dýcháš ho, dopíjíš zelený ichor_
+vzduch mezi stébly je tišší než ticho  
+dýcháš ho, dopíjíš zelený ichor
 
 </section>
 
 <section>
 
-_zítřek zní krvavým výkřikem do pustin  
-Bože můj, najdi mě tam, kde tě opustím_
+zítřek zní krvavým výkřikem do pustin  
+Bože můj, najdi mě tam, kde tě opustím
 
 </section>

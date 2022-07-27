@@ -1,29 +1,29 @@
 ---
 title: Čtrnáctý výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(všudypřítemný)_
 
-_tak vidíš, zdráháme se slyšet  
+tak vidíš, zdráháme se slyšet  
 namátkou kontrolovaní  
-abychom nepřesáhli vymezený syžet_
+abychom nepřesáhli vymezený syžet
 
 </section>
 
 <section>
 
-_prodíráme se čím dál světlejšími rány  
+prodíráme se čím dál světlejšími rány  
 zpod peřin prohlížíme život  
-kočičími periskopy, jehlami zkřehlých dlaní_
+kočičími periskopy, jehlami zkřehlých dlaní
 
 </section>
 
 <section>
 
-_všude je přítmí, všude tklivo  
-všude se pomalu loupe zdivo_
+všude je přítmí, všude tklivo  
+všude se pomalu loupe zdivo
 
 </section>

@@ -1,15 +1,15 @@
 ---
 title: Dvacátý osmý výjev
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _(předjarní)_
 
-_letos jsem viděl bledule kvést v Praze  
+letos jsem viděl bledule kvést v Praze  
 kdosi je kdesi, cosi stále tam  
 jsou mezi mnou a sebou dětské hráze  
-klacky a hlína nejmíň staletá_
+klacky a hlína nejmíň staletá
 
 </section>
